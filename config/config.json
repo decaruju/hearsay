@@ -1,0 +1,6 @@
+{
+  "development": {
+    "host": "db.sqlite3",
+    "dialect": "sqlite"
+  }
+}
